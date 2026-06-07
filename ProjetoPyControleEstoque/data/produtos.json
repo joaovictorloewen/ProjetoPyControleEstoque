@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "carne",
+        "quantidade": 18,
+        "preco": 123.0,
+        "minimo": 10
+    },
+    {
+        "id": 2,
+        "nome": "Leite",
+        "quantidade": 12,
+        "preco": 12.0,
+        "minimo": 26
+    },
+    {
+        "id": 3,
+        "nome": "Biscoitos",
+        "quantidade": 16,
+        "preco": 1.0,
+        "minimo": 14
+    },
+    {
+        "id": 4,
+        "nome": "Yougurte",
+        "quantidade": 14,
+        "preco": 18.0,
+        "minimo": 5
+    },
+    {
+        "id": 5,
+        "nome": "Coco",
+        "quantidade": 14,
+        "preco": 8.0,
+        "minimo": 10
+    }
+]
